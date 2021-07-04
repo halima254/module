@@ -10,11 +10,11 @@ h1{
 
 }
 body{
-    background-color: blue;
+    /* background-color: blue; */
     /* background: linear-gradient(to right,rgb(25, 254,233)); */
     
 
-    /* background:url(/assets/water.jpg); */
+    background:url("./assets/water.jpg");
     /* color: rgb(153, 147, 147); */
     height: 100%;
     /* margin-top: -20px; */
