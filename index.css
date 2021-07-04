@@ -49,7 +49,11 @@ body{
 
 }
 
-
+.background2{
+    background-color: brown;
+    height: 500px;
+    width: 100%;
+}
 
 /* ul{
     color:white;
